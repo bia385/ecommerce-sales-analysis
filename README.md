@@ -75,12 +75,6 @@ ecommerce-sales-analysis/
 └── README.md
 ```
 
-## Project Report
-
-The complete project report is available here:
-
-[View the E-commerce Sales Analysis Report](report/E-commerce_Sales_Analysis_Report.pdf)
-
 ## Limitations
 
 * The analysis is based only on the variables available in the dataset.
